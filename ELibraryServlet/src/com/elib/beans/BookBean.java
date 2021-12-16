@@ -8,7 +8,7 @@ public class BookBean {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-
+  // increasing bean prop.
 	public BookBean(String callno, String name, String author, String publisher, int quantity) {
 		super();
 		this.callno = callno;
